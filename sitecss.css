@@ -1,13 +1,6 @@
 
 /********************************************************************
-  I declare that my assignment is wholly my own work in accordance with Seneca 
-  Academic Policy. No part of this assignment has been copied manually or 
-  electronically from any other source (including web sites) except for the 
-  information supplied by the WEB222 instructors and / or made available in this 
-  assignment for my use.  
-  I also declare that no part of this assignment has been distributed to other students.  
-  Name: Rongbin Lu 
-  Dated:  2020 March 17
+  
   ********************************************************************/
 /*sitecss.css*/
 
@@ -121,7 +114,7 @@ header{
 
 nav{
     padding:8px;
-    background-color: rgb(224, 133, 80);
+    background-color:  rgb(224, 197, 80);
 }
 
 nav ul{
@@ -159,7 +152,7 @@ aside{
 
 footer{
     clear:both;
-    background-color:rgb(224, 133, 80);
+    background-color: rgb(224, 197, 80);
     color: #eee;
     padding:10px;
 }
